@@ -1,0 +1,16 @@
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.Form1.resources
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.csproj.GenerateResource.cache
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.AssemblyInfoInputs.cache
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.AssemblyInfo.cs
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.csproj.CoreCompileInputs.cache
+C:\Users\danng\source\repos\P1U6_252310562\bin\Debug\net8.0-windows\P1U6_252310562.exe
+C:\Users\danng\source\repos\P1U6_252310562\bin\Debug\net8.0-windows\P1U6_252310562.deps.json
+C:\Users\danng\source\repos\P1U6_252310562\bin\Debug\net8.0-windows\P1U6_252310562.runtimeconfig.json
+C:\Users\danng\source\repos\P1U6_252310562\bin\Debug\net8.0-windows\P1U6_252310562.dll
+C:\Users\danng\source\repos\P1U6_252310562\bin\Debug\net8.0-windows\P1U6_252310562.pdb
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.dll
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\refint\P1U6_252310562.dll
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.pdb
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\P1U6_252310562.genruntimeconfig.cache
+C:\Users\danng\source\repos\P1U6_252310562\obj\Debug\net8.0-windows\ref\P1U6_252310562.dll
